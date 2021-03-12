@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
+*{
+  margin: 0;
+  font-family: 'Mukta', sans-serif;
+}
+
+.navbar {
+  font-family: 'Abril Fatface', cursive !important;
+  padding: 20px;
+  color: #111111;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.container{
+  padding-top: 20px;
+  padding-right: 60px;
+  padding-left: 60px;
+
+}
+
+h2 {
+  font-size: 35px;
+  padding-bottom: 30px;
+}
+
+
+.footer {
+  background-color: #161616;
+  text-align: center;
+  padding: 15px;
+  font-size: 15px;
+  color: #f3f3f3;
+}
+
+#stock-tracker {
+  height: 16em;
+  margin-bottom: 2em;
+}
+
+.company-description {
+  font-size: 17px;
+  border: 1px solid #4a4a4a;
+  border-radius: 25px;
+  background: #ececec;
+  line-height: 25px;
+  padding: 1em;
+}
+
+.description-heading{
+  font-size: 25px !important;
+  padding-bottom: 10px;
+
+}
